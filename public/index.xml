@@ -1,0 +1,57 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pattypoem&#39;s blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on pattypoem&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Tue, 05 Sep 2023 10:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>关于我</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Tue, 05 Sep 2023 10:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>pattypoem&#39;s blog http://localhost:1313/about/ -&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
+&lt;p&gt;这是一个关于我的页面，你可以在这里介绍你自己、你的博客或任何你想要分享的信息。&lt;/p&gt;
+&lt;h3 id=&#34;联系方式&#34;&gt;联系方式&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:your-email@example.com&#34;&gt;your-email@example.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;你的GitHub用户名&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;微博: @你的微博ID&lt;/li&gt;
+&lt;/ul&gt;
+- http://localhost:1313/about/ - This is a customized copyright.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>我的第一篇博客文章</title>
+        <link>http://localhost:1313/posts/my-first-post/</link>
+        <pubDate>Tue, 05 Sep 2023 10:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/my-first-post/</guid>
+        <description>pattypoem&#39;s blog http://localhost:1313/posts/my-first-post/ -&lt;h2 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h2&gt;
+&lt;p&gt;这是我的第一篇博客文章内容。你可以在这里编写Markdown格式的内容。&lt;/p&gt;
+&lt;h3 id=&#34;小标题&#34;&gt;小标题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;列表项1&lt;/li&gt;
+&lt;li&gt;列表项2&lt;/li&gt;
+&lt;li&gt;列表项3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#228b22&#34;&gt;# 这里是代码块示例&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#008b45&#34;&gt;hello_world&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#658b00&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;- http://localhost:1313/posts/my-first-post/ - This is a customized copyright.</description>
+        </item>
+    
+    
+  </channel>
+</rss> 
